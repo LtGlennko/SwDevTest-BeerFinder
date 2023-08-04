@@ -10,3 +10,4 @@ Para probar la solución expuesta debe realizar los siguientes pasos:
    - Mostrar todas las cercezas disponibles: http://localhost:8080/beer
    - Búsqueda de cervezas por nombre: http://localhost:8080/beer/query?name=Buzz
    - Recomendar una cerveza de forma aleatoria: http://localhost:8080/beer/random
+7. Para revisar el **log de búsquedas** puede consultar en la tabla **log** dentro de la base de datos creada.
